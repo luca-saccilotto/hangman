@@ -12,7 +12,7 @@ class Hangman:
         self.list_of_guesses = []
 
     # Check whether the guess is in the word
-    def check_guess(self,guess):
+    def check_guess(self, guess):
             guess = guess.lower()
             if guess in self.word:
                 print(f"Good guess! {guess} is in the word.")
