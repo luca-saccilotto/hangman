@@ -1,4 +1,4 @@
-# AiCore Scenario - "Hangman" Game
+# AiCore - "Hangman" Scenario
 
 This is an implementation of the "Hangman" game, where the computer thinks of a word and the user tries to guess it. Python and its standard libraries were employed for input/output operations, string manipulation, conditional statements, and loops.
 
